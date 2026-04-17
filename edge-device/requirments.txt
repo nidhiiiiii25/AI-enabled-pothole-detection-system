@@ -1,0 +1,10 @@
+# requirements.txt
+# For Raspberry Pi 4 edge device (FINAL_INTEGRATION_STORED_VIDEO.py)
+
+opencv-python>=4.8.0
+numpy>=1.21.0
+pyserial>=3.5
+onnxruntime>=1.15.0
+folium>=0.14.0
+
+# Note: gps_utils.py is a custom local file (not from pip)
