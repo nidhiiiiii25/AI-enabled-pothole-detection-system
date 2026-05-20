@@ -56,7 +56,9 @@ The system was designed to accept live camera feed but was tested using pre-reco
 **Detection Examples** → <img width="356" height="196" alt="image" src="https://github.com/user-attachments/assets/911339f4-607b-4fa4-b634-3ab294a5dc1c" />
 
 
-**Dashboard Screenshots** → <img width="508" height="317" alt="image" src="https://github.com/user-attachments/assets/183a3865-2c07-4f43-964a-1c2cb3103b85" />
+<img width="508" height="317" alt="image" src="https://github.com/user-attachments/assets/183a3865-2c07-4f43-964a-1c2cb3103b85" />
+
+**Dashboard Screenshots** <img width="479" height="241" alt="image" src="https://github.com/user-attachments/assets/5e5db056-7616-40db-b840-8e971a5d4bd0" />
 
 
 
