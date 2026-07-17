@@ -19,6 +19,7 @@ A **portable embedded prototype** that:
 - Adds accurate **GPS coordinates**
 - Synchronizes camera, LiDAR and GPS data using timestamps
 - Logs data and displays everything on a clean web dashboard
+- https://temp-1-7v73.onrender.com
 
 The system was designed to accept live camera feed but was tested using pre-recorded video files for controlled evaluation.
 
